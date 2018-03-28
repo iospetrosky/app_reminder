@@ -1,0 +1,76 @@
+body {
+	background-color: #fff;
+	font-family: Arial,sans-serif;
+	color: #38393a;
+}
+
+a {
+	color: #d42cdd;
+	background-color: transparent;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+a:hover {
+   color: #79397c;
+}
+
+h1 {
+	color: #fff;
+	background-color: #255e53;
+	border-bottom: 1px solid black;
+	font-size: 22px;
+	font-weight: bold;
+	padding-left: 15px;
+	line-height: 40px;
+}
+
+h2 {
+	color:#211f1f;
+	margin:0;
+	padding:0 0 10px 0;
+}
+
+p {
+	 margin: 0 0 10px;
+	 padding:0;
+}
+
+.date_picker {
+    width: 40px;
+    text-align: center;
+}
+.form_label {
+    float: left;
+    width: 160px;
+    margin-bottom: 3px;
+}
+
+.form_field {
+    margin-bottom: 3px;
+}
+
+.rem_list_header {
+  display: inline-block;
+  border: 1px solid black;
+  text-align: center;
+  margin-right: 5px;
+  margin-bottom: 3px;
+  font-size: 14px;
+}
+
+.rem_list_item {
+  display: inline-block;
+  margin-right: 5px;
+  margin-bottom: 3px;
+  font-size: 10px;
+  padding: 1px;
+}
+
+#reminder_list {
+    __float: clear;
+}
+
+
+
+    
